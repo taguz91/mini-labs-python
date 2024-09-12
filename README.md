@@ -6,4 +6,4 @@ Author:
 Johnny Garcia
 
 Resources:
-(Ista applicaciones python)[https://github.com/danoc93/ista-aplicaciones-python]
+[Ista applicaciones python](https://github.com/danoc93/ista-aplicaciones-python)
