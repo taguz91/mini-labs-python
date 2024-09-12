@@ -6,7 +6,7 @@ data = {
     'Maria': ['Matematica', 'Fisica']
 }
 
-def devolver_materias(student):
+def devolver_materias(student: str) -> list:
     if student not in data.keys():
         raise StudentNotFoundException()
     
